@@ -1,0 +1,5 @@
+com\yupi\dreaifeapiclientsdk\client\dreaifeApiClient.class
+com\yupi\dreaifeapiclientsdk\model\User.class
+com\yupi\dreaifeapiclientsdk\utils\SignUtils.class
+com\yupi\dreaifeapiclientsdk\dreaifeApiClientConfig.class
+META-INF\spring-configuration-metadata.json

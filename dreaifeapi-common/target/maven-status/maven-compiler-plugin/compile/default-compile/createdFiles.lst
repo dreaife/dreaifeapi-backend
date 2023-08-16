@@ -1,0 +1,13 @@
+com\yupico\dreaifeapicommon\model\vo\PostVO.class
+com\yupico\dreaifeapicommon\model\entity\InterfaceInfo.class
+com\yupico\dreaifeapicommon\DreaifeapiCommonApplication.class
+com\yupico\dreaifeapicommon\model\entity\User.class
+com\yupico\dreaifeapicommon\model\entity\Post.class
+com\yupico\dreaifeapicommon\model\enums\PostGenderEnum.class
+com\yupico\dreaifeapicommon\model\enums\InterfaceInfoStatusEnum.class
+com\yupico\dreaifeapicommon\service\InnerUserService.class
+com\yupico\dreaifeapicommon\service\InnerInterfaceInfoService.class
+com\yupico\dreaifeapicommon\model\vo\UserVO.class
+com\yupico\dreaifeapicommon\service\InnerUserInterfaceInfoService.class
+com\yupico\dreaifeapicommon\model\entity\UserInterfaceInfo.class
+com\yupico\dreaifeapicommon\model\enums\PostReviewStatusEnum.class
